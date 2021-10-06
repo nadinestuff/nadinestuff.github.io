@@ -12,15 +12,15 @@ So far this year, I've read 10 books, which is a lot for me in more recent years
 The best book I've read so far is "I Alone Can Fix It." I guess I liked the emotionless aspect of it, and I always enjoy politics; maybe that's why I was a useless political science major who got a master's in public policy. Because I enjoy these things?! How flawed. Where's the money in that?! I think I would enjoy some new furniture more than I enjoy political science, let's be real here. 
 
 Here is the list of books I've read so far, in reverse chronological order:
-
-One Last Stop
-Set Boundaries, Find Peace
-I Alone Can Fix It
-Hamnet
-People We Meet on Vacation, Emily Henry
-Beach Read, Emily Henry
-Homeland Elegies, Ayad Akhtar
-Deacon King Kong, James McBride
-Such a Fun Age, Kiley Reid
-Oona Out of Order, Margarita Montimore
-
+<ul>
+  <li>One Last Stop</li>
+<li>Set Boundaries, Find Peace</li>
+<li>I Alone Can Fix It</li>
+<li>Hamnet</li>
+<li>People We Meet on Vacation, Emily Henry</li>
+<li>Beach Read, Emily Henry</li>
+<li>Homeland Elegies, Ayad Akhtar</li>
+<li>Deacon King Kong, James McBride</li>
+<li>Such a Fun Age, Kiley Reid</li>
+<li>Oona Out of Order, Margarita Montimore</li>
+</ul>
