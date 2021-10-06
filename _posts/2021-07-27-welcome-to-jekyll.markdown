@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-07-27 10:05:59 -0700
-categories: jekyll update
+title:  "First Post"
+date:   2021-10-21 11:18:59 -0700
+categories: books
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+I've been trying to read more, because it is a thread throughout my existence that has made me feel better, and it connects me to my past, which I look upon fondly. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+So far this year, I've read 10 books, which is a lot for me in more recent years. Some of them have been pretty bad - well, one of them - the first book I decided to read ("Oona Out of Order"). Since then, I've tried to spend more time getting a better sense of the book I pick to read. I say that, but the most recent book I picked ("One Last Stop"), I realized I had no idea what it was about other than that it was a romantic comedy set in NYC, and appeared on a few different "Best Books" lists. When I started reading it, the time-travel aspect of it made me groan. Also, I made an error in choosing Hamnet, which was too depressing for me to be able to enjoy at the time. I vaguely recall a lot of crying at the table with this book open. I've also realized that, while trying to pick books to take my mind off of things, I go for the romantic comedy genre, but this might be flawed. These books take the "romantic" part of their genre's name seriously, and there are going to be the logistically boring read of hands going here and legs going there, that I just don't care about. The thing I should be reaching for, I guess, are just "comedies." If there is a genre of books or even a book series that is the adult version of "Diary of a Wimpy Kid," I'd love to know about it and read it. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The best book I've read so far is "I Alone Can Fix It." I guess I liked the emotionless aspect of it, and I always enjoy politics; maybe that's why I was a useless political science major who got a master's in public policy. Because I enjoy these things?! How flawed. Where's the money in that?! I think I would enjoy some new furniture more than I enjoy political science, let's be real here. 
 
-Jekyll also offers powerful support for code snippets:
+Here is the list of books I've read so far, in reverse chronological order:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+One Last Stop
+Set Boundaries, Find Peace
+I Alone Can Fix It
+Hamnet
+People We Meet on Vacation, Emily Henry
+Beach Read, Emily Henry
+Homeland Elegies, Ayad Akhtar
+Deacon King Kong, James McBride
+Such a Fun Age, Kiley Reid
+Oona Out of Order, Margarita Montimore
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
