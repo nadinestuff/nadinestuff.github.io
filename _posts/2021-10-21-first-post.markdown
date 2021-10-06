@@ -5,7 +5,7 @@ date:   2021-10-21 11:18:59 -0700
 categories: books
 ---
 
-I've been trying to read more, because it is a thread throughout my existence that has made me feel better, and it connects me to my past, which I look upon fondly. 
+I've been trying to read more. 
 
 So far this year, I've read 10 books, which is a lot for me in more recent years. Some of them have been pretty bad - well, one of them - the first book I decided to read ("Oona Out of Order"). Since then, I've tried to spend more time getting a better sense of the book I pick to read. I say that, but the most recent book I picked ("One Last Stop"), I realized I had no idea what it was about other than that it was a romantic comedy set in NYC, and appeared on a few different "Best Books" lists. When I started reading it, the time-travel aspect of it made me groan. Also, I made an error in choosing Hamnet, which was too depressing for me to be able to enjoy at the time. I vaguely recall a lot of crying at the table with this book open. I've also realized that, while trying to pick books to take my mind off of things, I go for the romantic comedy genre, but this might be flawed. These books take the "romantic" part of their genre's name seriously, and there are going to be the logistically boring read of hands going here and legs going there, that I just don't care about. The thing I should be reaching for, I guess, are just "comedies." If there is a genre of books or even a book series that is the adult version of "Diary of a Wimpy Kid," I'd love to know about it and read it. 
 
