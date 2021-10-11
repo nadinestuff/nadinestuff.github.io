@@ -1,6 +1,7 @@
 ---
 ---
 
-@import "";
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
 
 .site-title, .site-title:visited { color: #8FBB09; }
